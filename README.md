@@ -2,6 +2,8 @@
 
 This project focuses on predicting wine quality based on physicochemical properties using multiple machine learning regression models. The main objective is to compare different algorithms, evaluate their performance, and analyze prediction errors in a structured and interpretable manner.
 
+Dataset based on [Kaggle](https://www.kaggle.com/datasets/rajyellow46/wine-quality)
+
 ---
 
 ## Project Overview
